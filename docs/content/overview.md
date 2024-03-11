@@ -4,4 +4,6 @@ type: section
 active: true
 title: Overview
 ---
-The workshop will focus on the early Euclid Data Release and how to hack it. This event will be a one-day workshop and unconference, where we will discuss and learn from each other about the finer details of the Euclid mission data and use them in various contexts. We hope this workshop could lead to some new collaborations or initial joint studies. We want to dedicate a significant amount of time to unconference sessions and informal discussions.
+MPIA will host a Hack Day focused on the early Euclid Data Release on June 12 or 13th. This event will be a one-day workshop, where we will discuss and learn from each other about data access, formats as well as the finer details of the Euclid mission data. Expert on the data will be present to answer questions. We hope this workshop could lead to some new collaborations or initial joint studies. We plan to dedicate a significant amount of time to work sessions and informal discussions.
+
+To register your expression of interest, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSddXALImT-cDW9bMGpBmPVprFqkUzgJnIvhwyQ6WPW7OdWrbQ/viewform?usp=sf_link">FORM</a> by April 12, 2024. 
