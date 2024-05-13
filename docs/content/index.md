@@ -4,7 +4,7 @@ type: index
 
 event:
     - title: Euclid Hack Day 2024
-    - subtitle: Register your expression of interest <a href="https://docs.google.com/forms/d/e/1FAIpQLSddXALImT-cDW9bMGpBmPVprFqkUzgJnIvhwyQ6WPW7OdWrbQ/viewform?usp=sf_link">HERE</a> by April 12, 2024
+    - subtitle: Register your expression of interest <a href="https://docs.google.com/forms/d/e/1FAIpQLSddXALImT-cDW9bMGpBmPVprFqkUzgJnIvhwyQ6WPW7OdWrbQ/viewform?usp=sf_link">HERE</a> by May 31, 2024
     - date: June 12, 2024
     - venue: TDB, Heidelberg, Germany
 
