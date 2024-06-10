@@ -27,8 +27,8 @@ content:
     # - organizers
     # - participants
     # - speakers
-    # - programme
-    # - venue-mpia
+    - programme
+    - venue-mpia
     # - logistics
     # - travel-mpia
     - code-of-conduct
