@@ -4,17 +4,17 @@ type: section
 active: true
 title: Venue
 ---
+The workshop will be held at the at the <a href="http://www.mpia.de/en/">Max Planck Institute for
+						Astronomy</a> in Heidelberg.
 
-
-The workshop will be held at the Haus der Astronomie (HdA) at [MPIA](http://www.mpia.de/en/) in Heidelberg. HdA is the Center for Astronomy Education and Outreach in Heidelberg; more information about the center and its facilities and resources [here](http://www.haus-der-astronomie.de/).
+The workshop will be held at [the Max Planck Institute for
+						Astronomy (MPIA)](http://www.mpia.de/en/) in Heidelberg.
 
 ## Accessibility
 
-HdA is accessible to disabled persons, and dedicated parking spaces are available. Unfortunately, the buses dedicated to the event and public transportations may not be accessible for everyone. However, there are specific taxi services in Heidelberg that we can arrange on-demand. Don't hesitate to contact us if you need any assistance or have any questions.
+MPIA is accessible to disabled persons, and dedicated parking spaces are available. Unfortunately, public transportation may not be accessible to everyone. However, we can arrange specific taxi services in Heidelberg on-demand. Don't hesitate to contact us if you need assistance or have questions.
 
-Note that mobile phone connectivity at/around the HdA is at best poor but usually non-existent.
-
-<img src="static/img/hda.jpeg" alt="venue" width=360px style="float: right;">
+Note that mobile phone connectivity at/around the HdA is, at best, poor but usually non-existent.
 
 ## Address
 
