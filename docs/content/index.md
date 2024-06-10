@@ -4,7 +4,7 @@ type: index
 
 event:
     - title: Euclid Hack Day 2024
-    - subtitle: 
+    - subtitle: Hacking Euclid Released Data
     - date: June 12, 2024
     - venue: MPIA, Heidelberg, Germany
 
