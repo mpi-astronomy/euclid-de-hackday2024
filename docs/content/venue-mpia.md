@@ -4,11 +4,8 @@ type: section
 active: true
 title: Venue
 ---
-The workshop will be held at the at the <a href="http://www.mpia.de/en/">Max Planck Institute for
-						Astronomy</a> in Heidelberg.
 
-The workshop will be held at [the Max Planck Institute for
-						Astronomy (MPIA)](http://www.mpia.de/en/) in Heidelberg.
+The workshop will be held at [the Max Planck Institute for Astronomy (MPIA)](http://www.mpia.de/en/) in Heidelberg.
 
 ## Accessibility
 
